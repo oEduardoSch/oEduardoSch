@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Olá Mundo</title>
+</head>
+<body>
+<h1>Exercicio 1 </h1>
+    <ul>
+        <li><mark><s><b>Entrar na escola</b></s></mark></li>
+        <li><s>Entrar na sala</s></li>
+        <li><mark><s><b>Ir para o lanche</b></s></mark></li>
+        <li><s>Voltar para sala</s></li>
+        <li><s>Entrar na sala</s></li>
+        <li><mark><b>responder a cahmada</b></mark></li>
+        <li><mark><b>Ir para casa</b></mark></li>
+
+    </ul>
+
+    <hr size="5" color="Black">
+
+<h2>Exercicio 2</h2>
+
+<p><b>Referencia</b></p>
+
+<ul>
+
+    
+</ul>
+
+</body>
+</html>
